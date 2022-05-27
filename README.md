@@ -1,4 +1,4 @@
-# NCPLDA
-Prediction of LncRNA-Disease Associations Based on Network Consistency Projection
+# ENCFLDA
+lncRNA-Disease Association Prediction Based On Matrix Decomposition Of Elastic Network and Collaborative Filtering
 
-by Guanghui Li, Jiawei Luo, Cheng Liang, Qiu Xiao, Pingjian Ding, and Yuejin Zhang
+by Wang Bo,RunJie Liu
